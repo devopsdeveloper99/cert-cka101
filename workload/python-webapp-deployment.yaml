@@ -18,4 +18,4 @@ spec:
       - name: python-app
         image: devopsdeveloper99/webapp:v1
         ports:
-        - containerPort: 8080
+        - containerPort: 8000
